@@ -1,6 +1,6 @@
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-bind.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-bind) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/bind/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/bind)
 
-# sameersbn/bind:9.9.5-20170626
+# hansbogert/bind-webmin
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
